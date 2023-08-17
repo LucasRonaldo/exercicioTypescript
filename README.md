@@ -1,0 +1,2 @@
+# exercicioTypescript
+Aprendendo typescript
